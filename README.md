@@ -32,15 +32,15 @@ Dự án xây dựng một hệ thống thư viện đơn giản, nơi người 
 ## 📡 Tính năng phân tán
 Client giao tiếp với ZEO server để truy xuất dữ liệu
 
-Hai ZEO server:
+- Hai ZEO server:
 
-accounts.fs (quản lý người dùng)
+- accounts.fs (quản lý người dùng)
 
-books.fs (quản lý sách)
+- books.fs (quản lý sách)
 
-Đồng bộ hóa giữa nhiều client thao tác cùng lúc
+- Đồng bộ hóa giữa nhiều client thao tác cùng lúc
 
-Cơ chế kiểm tra xung đột (@retry_on_conflict) đảm bảo chỉ 1 người mượn sách thành công khi có nhiều yêu cầu đồng thời
+- Cơ chế kiểm tra xung đột (@retry_on_conflict) đảm bảo chỉ 1 người mượn sách thành công khi có nhiều yêu cầu đồng thời
 
 ## 📜 Ghi log hoạt động
 Mỗi người dùng có file log riêng (dạng .log)
