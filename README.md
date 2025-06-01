@@ -1,8 +1,8 @@
 # 📚 Hệ Thống Thư Viện Mini Phân Tán với ZODB & ZEO
 ## 📝 Mô tả dự án
 Dự án xây dựng một hệ thống thư viện đơn giản, nơi người dùng có thể đăng ký, đăng nhập, mượn và trả sách. Hệ thống hoạt động theo mô hình client-server phân tán sử dụng ZODB làm cơ sở dữ liệu hướng đối tượng và ZEO để phân tán truy cập dữ liệu qua mạng.
-##🚀 Tính năng chính
-###👤 Quản lý tài khoản
+## 🚀 Tính năng chính
+### 👤 Quản lý tài khoản
 - Đăng ký tài khoản (người dùng thường)
 
 - Đăng nhập / đăng xuất
