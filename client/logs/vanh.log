@@ -1,0 +1,53 @@
+2025-05-30 13:50:04,546 - INFO - Tài khoản được tạo - Vai trò: user
+2025-05-30 13:50:06,674 - INFO - Đăng xuất
+2025-05-30 13:50:23,755 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 13:50:33,696 - INFO - Mượn sách: Doraemon
+2025-05-30 13:51:47,304 - INFO - Trả sách: Doraemon
+2025-05-30 13:52:05,277 - INFO - Mượn sách: Doraemon
+2025-05-30 13:53:04,539 - INFO - Trả sách: Doraemon
+2025-05-30 13:53:59,804 - INFO - Đăng xuất
+2025-05-30 14:02:29,524 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 14:03:32,310 - INFO - Mượn sách: Doraemon
+2025-05-30 14:07:14,822 - INFO - Đăng xuất
+2025-05-30 14:08:48,135 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 14:08:53,037 - INFO - Trả sách: Doraemon
+2025-05-30 14:09:10,006 - INFO - Mượn sách: Doraemon
+2025-05-30 14:09:43,259 - INFO - Đăng xuất
+2025-05-30 14:11:10,780 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 14:11:19,069 - INFO - Trả sách: Doraemon
+2025-05-30 14:12:36,995 - INFO - Mượn sách: Doraemon
+2025-05-30 14:15:00,426 - INFO - Đăng xuất
+2025-05-30 14:15:56,648 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 14:16:09,765 - INFO - Trả sách: Doraemon
+2025-05-30 14:16:55,146 - INFO - Đăng xuất
+2025-05-30 14:20:18,160 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 14:26:35,608 - INFO - Đăng xuất
+2025-05-30 14:27:44,887 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 14:33:16,606 - INFO - Đăng xuất
+2025-05-30 14:34:51,493 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 14:34:58,214 - INFO - Đã vào hàng đợi cho sách: test
+2025-05-30 14:38:24,002 - INFO - Đăng xuất
+2025-05-30 14:44:43,548 - INFO - Tự động mượn sách 'test' từ hàng đợi (sách được trả bởi vietanh)
+2025-05-30 16:05:43,040 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 16:06:06,163 - INFO - Trả sách: test
+2025-05-30 16:07:00,357 - INFO - Mượn sách: test
+2025-05-30 16:08:10,412 - INFO - Trả sách: test
+2025-05-30 16:12:10,974 - INFO - Đăng xuất
+2025-05-30 16:13:32,714 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 16:14:13,595 - INFO - Đã vào hàng đợi cho sách: test
+2025-05-30 16:14:33,671 - INFO - Tự động mượn sách 'test' từ hàng đợi (sách được trả bởi vanh25)
+2025-05-30 16:17:06,448 - INFO - Đăng xuất
+2025-05-30 16:17:37,352 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 16:18:20,498 - INFO - Trả sách: test
+2025-05-30 16:23:24,632 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 16:23:40,983 - INFO - Đăng xuất
+2025-05-30 16:41:15,587 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 16:41:44,165 - INFO - Đã gửi yêu cầu mượn sách: test
+2025-05-30 16:42:18,397 - INFO - Yêu cầu mượn sách 'test' được duyệt nhưng sách đang được mượn. Đã được thêm vào hàng đợi.
+2025-05-30 17:02:19,666 - INFO - Tự động mượn sách 'test' từ hàng đợi
+2025-05-30 17:02:25,367 - INFO - Trả sách: test
+2025-05-30 17:02:26,672 - INFO - Đăng xuất
+2025-05-30 17:05:32,515 - INFO - Đăng nhập thành công - Vai trò: user
+2025-05-30 17:06:45,729 - INFO - Đã gửi yêu cầu mượn sách: test
+2025-05-30 17:07:57,101 - INFO - Yêu cầu mượn sách 'test' bị từ chối. Lý do: Ko thich
+2025-05-30 17:08:13,810 - INFO - Đăng xuất
